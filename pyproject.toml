@@ -7,7 +7,7 @@ name = "academic-agent"
 version = "0.1.0"
 description = "Resume PDFs and generates quizzes"
 requires-python = ">=3.11"
-readme = "README.MD"
+readme = "README.md"
 
 
 dependencies = [
