@@ -11,7 +11,7 @@ def extract_pages(route):
     
     for page in reader.pages:
         text = page.extract_text() or ""
-        pages.append
+        pages.append(text)
     
     return pages
 
